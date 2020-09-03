@@ -6,4 +6,6 @@ and adapted to pretty much any engine.
 Please note that the reason behind the Vector struct/lightweight class is to help educate people on how to use vectors.  Depending on the engine, there are probably
 already methods for these operations, but understanding how things work is important - and that is the reason for the class.
 
-https://www.youtube.com/watch?v=wsmEcqbYMgA
+Here is my video for this demo project
+https://youtu.be/sbS_DB0uCfg
+
